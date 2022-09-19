@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EdgeDetector</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="title">Hey there, Upload your image here.</string>
+    <string name="process">Start Processing</string>
+    <string name="title_activity_processing">Processing</string>
+    <string name="text_view_of_processing_activity">Here Is The Result</string>
+    <string name="fetch_image">Fetch</string>
+    <string name="save_to_firebase">Save to firebase</string>
+
+</resources>
