@@ -16,4 +16,4 @@ An Android App used for Edge Detection of images
 - https://github.com/QuickBirdEng/opencv-android
 
 #### APK (zip)
-#### [app-debug.zip](https://github.com/Anushkay/EdgeDetector-App/files/9608232/app-debug.zip)
+- [app-debug.zip](https://github.com/Anushkay/EdgeDetector-App/files/9608232/app-debug.zip)
